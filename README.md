@@ -7,7 +7,6 @@ Upgraded [PhysicsFieldsWorld](https://github.com/songrotek/PhysicsFieldsWorld) t
 This demo project displays the following Physics Fields: 
 
 * LinearGravityField
-* LinearGravityFieldUp
 * RadialGravityField
 * DragField
 * VortexField
